@@ -1,1 +1,1 @@
-# Hello-Rails
+# Blog-App
